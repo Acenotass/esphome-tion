@@ -4,7 +4,7 @@ substitutions:
   # project branch
   project_branch: $project_version
   # project git source
-  project_source: github://dentra/esphome-tion@$project_branch
+  project_source: github://Acenotass/esphome-ion@$project_branch
   # project source refresh interval
   project_source_refresh: 12h
   # project identifier
@@ -15,7 +15,7 @@ substitutions:
   friendly_name: $node_name
   # vport and additional components configuration parameters
   vport_version: "2024.12.0"
-  vport_source: github://dentra/esphome-components@$vport_version
+  vport_source: github://Acenotass/esphome-ions@$vport_version
   vport_source_refresh: 1d
 
 esphome:
